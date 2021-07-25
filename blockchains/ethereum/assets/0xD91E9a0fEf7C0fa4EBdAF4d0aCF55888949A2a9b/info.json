@@ -1,0 +1,11 @@
+{
+    "name": "MCN.VENTURES",
+    "symbol": "MCN",
+    "type": "ERC20",
+    "decimals": 18,
+    "description": "A decentralized venture fund combining VC efficiency with tokenomics bootstrapping community and fund growth.",
+    "website": "https://mcn.ventures",
+    "explorer": "https://etherscan.io/token/0xD91E9a0fEf7C0fa4EBdAF4d0aCF55888949A2a9b",
+    "status": "active",
+    "id": "0xD91E9a0fEf7C0fa4EBdAF4d0aCF55888949A2a9b"
+}
